@@ -1,1 +1,26 @@
+# Environment and secrets
+.env
+*.env
+
+# Virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Personal files
 personal/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

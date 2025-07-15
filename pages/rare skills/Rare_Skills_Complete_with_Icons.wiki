@@ -1,5 +1,5 @@
-<noinclude>{{DISPLAYTITLE:Rare Skills List (with Icons)}}</noinclude>
-= Rare Skills List (with Icons) =
+<noinclude>{{DISPLAYTITLE:Rare Skills List}}</noinclude>
+= Rare Skills List=
 ''This page documents the rare skills (Level 151 and above) available in DarkEden Legend.''
 
 == Slayers ==

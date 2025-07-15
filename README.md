@@ -1,46 +1,79 @@
-# Darkeden Legend Wiki Repository
+# Dark Eden Legend Wiki
 
-Welcome to the **Darkeden Legend Wiki** repository!  
-This project serves as the central hub for storing documents, media, and resources related to the [Darkeden Legend Fandom Wiki](https://darkeden-legend.fandom.com/wiki/Darkeden_Legend_Wiki).
+Welcome to the **Dark Eden Legend Wiki** repository!  
+This project serves as the central hub for storing documents, media, and automation tools for the [Dark Eden Legend Fandom Wiki](https://darkeden-legend.fandom.com/wiki/Darkeden_Legend_Wiki).
 
-## Purpose
+## 🎯 Project Status
 
-This repository is dedicated to:
+✅ **Image Upload Complete**: All 91 rare skill icons successfully uploaded to Fandom wiki!  
+✅ **Automation Ready**: Streamlined upload process with environment variable configuration  
+✅ **Clean Structure**: Organized codebase with proper separation of concerns  
 
-- Organizing and archiving guides, lore, and gameplay documentation.
-- Storing images, videos, and other media assets for the wiki.
-- Facilitating collaboration among contributors to improve and expand wiki content.
-
-## Repository Structure
+## 📁 Project Structure
 
 ```
-/
-├── pages/
-    ├── example_page
-        ├── media/     # Markdown guides, lore, and documentation
-├── templates/    # Page templates and formatting guides
-└── README.md     # This file
+├── 📁 scripts/           # Automation tools
+│   ├── fandom_uploader.py   # Main image uploader (environment-based)
+│   └── upload.sh           # Convenience script
+├── 📁 tests/             # Testing tools
+│   └── auth_tester.py      # Authentication testing
+├── 📁 logs/              # Upload logs and history
+├── 📁 pages/             # Wiki content
+│   └── rare skills/        # Rare skills documentation & icons
+├── 📁 personal/          # Personal files (ignored)
+├── .env                  # Environment variables (keep private!)
+├── requirements.txt      # Python dependencies
+└── README_UPLOADER.md    # Detailed uploader documentation
 ```
 
-## Contribution Guidelines
+## 🚀 Quick Start
 
-1. **Fork** this repository and create a new branch for your changes.
-2. Add or update content in the appropriate folder.
-3. Ensure all media files are appropriately named and organized.
-4. Submit a **pull request** with a clear description of your changes.
+### Upload Images to Fandom Wiki
 
-Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+```bash
+# One-time setup: Configure credentials in .env
+# Then run:
+bash scripts/upload.sh
+```
 
-## Useful Links
+For detailed instructions, see [README_UPLOADER.md](README_UPLOADER.md)
 
-- [Darkeden Legend Wiki](https://darkeden-legend.fandom.com/wiki/Darkeden_Legend_Wiki)
-- [Fandom Editing Help](https://community.fandom.com/wiki/Help:Editing)
+## 🔧 Configuration
 
-## License
+Set up your `.env` file with bot credentials:
 
-All contributions must comply with Fandom's content policies and copyright guidelines.  
-See [LICENSE](LICENSE) for more information.
+```bash
+WIKI_URL=darkeden-legend.fandom.com
+BOT_USERNAME=YourUsername@BotName
+BOT_PASSWORD=your_bot_password
+IMAGE_DIR=pages/rare skills/icons
+BATCH_SIZE=10
+DELAY=120
+```
+
+## 📚 Documentation
+
+- **[Uploader Guide](README_UPLOADER.md)** - Complete documentation for the image uploader
+- **[Dark Eden Legend Wiki](https://darkeden-legend.fandom.com)** - The live wiki
+- **[Special:ListFiles](https://darkeden-legend.fandom.com/wiki/Special:ListFiles)** - View uploaded images
+
+## 🎮 Content Overview
+
+- **Rare Skills**: Complete documentation with 91 skill icons
+- **Game Guides**: Gameplay documentation and resources
+- **Media Assets**: Images, PDFs, and reference materials
+
+## 🤝 Contributing
+
+1. **Fork** this repository and create a feature branch
+2. Add or update content in the appropriate folders
+3. Test uploads with `bash scripts/upload.sh --dry-run`
+4. Submit a **pull request** with clear description
+
+## 📄 License
+
+Content follows Fandom's policies and copyright guidelines.
 
 ---
 
-Thank you for helping build the Darkeden Legend community!
+*Building the Dark Eden Legend community together!* 🎮
