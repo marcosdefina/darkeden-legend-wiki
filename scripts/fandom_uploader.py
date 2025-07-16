@@ -171,15 +171,21 @@ class FandomUploader:
             logger.warning(f"Could not check if file {filename} exists: {e}")
             return False
 
-    def upload_file(self, file_path: Path, description: str = "") -> bool:
-        """Upload a single file to the wiki."""
+    def upload_file(self, file_path: Path, description: str = "") -> str:
+        """Upload a single file to the wiki.
+        
+        Returns:
+            'uploaded' - File was successfully uploaded
+            'skipped' - File already exists, was skipped
+            'failed' - Upload failed
+        """
         try:
             filename = file_path.name
             
             # Check if file already exists
             if self.file_exists(filename):
                 logger.info(f"File {filename} already exists, skipping...")
-                return True
+                return 'skipped'
             
             # Determine MIME type
             mime_type, _ = mimetypes.guess_type(str(file_path))
@@ -207,14 +213,14 @@ class FandomUploader:
             
             if 'upload' in result and result['upload'].get('result') == 'Success':
                 logger.info(f"✓ Successfully uploaded: {filename}")
-                return True
+                return 'uploaded'
             else:
                 logger.error(f"✗ Failed to upload {filename}: {result}")
-                return False
+                return 'failed'
                 
         except Exception as e:
             logger.error(f"✗ Error uploading {file_path.name}: {e}")
-            return False
+            return 'failed'
 
     def get_image_files(self, directory: str) -> List[Path]:
         """Get list of image files from directory."""
@@ -260,12 +266,12 @@ class FandomUploader:
             logger.info(f"Processing batch {batch_num}/{total_batches} ({len(batch)} files)...")
             
             for file_path in batch:
-                if self.upload_file(file_path):
-                    if self.file_exists(file_path.name):
-                        stats['skipped'] += 1
-                    else:
-                        stats['uploaded'] += 1
-                else:
+                result = self.upload_file(file_path)
+                if result == 'uploaded':
+                    stats['uploaded'] += 1
+                elif result == 'skipped':
+                    stats['skipped'] += 1
+                else:  # 'failed'
                     stats['failed'] += 1
             
             logger.info(f"Batch {batch_num} complete. " +
@@ -288,7 +294,7 @@ def load_config():
         'wiki_url': os.getenv('WIKI_URL', 'darkeden-legend.fandom.com'),
         'bot_username': os.getenv('BOT_USERNAME'),
         'bot_password': os.getenv('BOT_PASSWORD'),
-        'image_dir': os.getenv('IMAGE_DIR', 'pages/rare skills/icons'),
+        'image_dir': 'pages/rare skills/missing_icons',
         'batch_size': int(os.getenv('BATCH_SIZE', '10')),
         'delay': int(os.getenv('DELAY', '120'))
     }

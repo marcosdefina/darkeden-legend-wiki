@@ -270,51 +270,51 @@
 {| class="wikitable"
 ! Icon !! Level !! Skill !! Description
 |-
-| ''No icon available'' || 191 || Blast of Assault || Physical damage+40
+| [[File:blast_of_assault.png|32px]] || 191 || Blast of Assault || Physical damage+40
 |-
-| ''No icon available'' || 191 || Blast of Mana || Magical damage+40
+| [[File:blast_of_mana.png|32px]] || 191 || Blast of Mana || Magical damage+40
 |-
-| ''No icon available'' || 191 || Blast of Evasion || Defense+100
+| [[File:blast_of_evasion.png|32px]] || 191 || Blast of Evasion || Defense+100
 |-
-| ''No icon available'' || 191 || Blast of Falcon || Tohit+100
+| [[File:blast_of_falcon.png|32px]] || 191 || Blast of Falcon || Tohit+100
 |-
-| ''No icon available'' || 191 || Blast of Vitality || HP+800
+| [[File:blast_of_vitality.png|32px]] || 191 || Blast of Vitality || HP+800
 |-
-| ''No icon available'' || 211 || Bind of Blood || HP+1500
+| [[File:bind_of_blood.png|32px]] || 211 || Bind of Blood || HP+1500
 |-
-| ''No icon available'' || 211 || Bind of Patience || Reduces incoming physical damage by 10%
+| [[File:bind_of_patience.png|32px]] || 211 || Bind of Patience || Reduces incoming physical damage by 10%
 |-
-| ''No icon available'' || 211 || Bind of Spirit || Reduces incoming magical.damage by 10%
+| [[File:bind_of_spirit.png|32px]] || 211 || Bind of Spirit || Reduces incoming magical.damage by 10%
 |-
-| ''No icon available'' || 151 || Increase of Health 1 || HP+100
+| [[File:increase_of_health_1.png|32px]] || 151 || Increase of Health 1 || HP+100
 |-
-| ''No icon available'' || 161 || Increase of Health 2 || HP+150
+| [[File:increase_of_health_2.png|32px]] || 161 || Increase of Health 2 || HP+150
 |-
-| ''No icon available'' || 171 || Increase of Health 3 || HP+200
+| [[File:increase_of_health_3.png|32px]] || 171 || Increase of Health 3 || HP+200
 |-
-| ''No icon available'' || 181 || Increase of Health 4 || HP+250
+| [[File:increase_of_health_4.png|32px]] || 181 || Increase of Health 4 || HP+250
 |-
-| ''No icon available'' || 191 || Increase of Health 5 || HP+300
+| [[File:increase_of_health_5.png|32px]] || 191 || Increase of Health 5 || HP+300
 |-
-| ''No icon available'' || 201 || Increase of Health 6 || HP+350
+| [[File:increase_of_health_6.png|32px]] || 201 || Increase of Health 6 || HP+350
 |-
-| ''No icon available'' || 211 || Increase of Health 7 || HP+400
+| [[File:increase_of_health_7.png|32px]] || 211 || Increase of Health 7 || HP+400
 |-
-| ''No icon available'' || 221 || Increase of Health 8 || HP+450
+| [[File:increase_of_health_8.png|32px]] || 221 || Increase of Health 8 || HP+450
 |-
-| ''No icon available'' || 231 || Increase of Health 9 || HP+500
+| [[File:increase_of_health_9.png|32px]] || 231 || Increase of Health 9 || HP+500
 |-
-| ''No icon available'' || 241 || Increase of Health 10 || HP+550
+| [[File:increase_of_health_10.png|32px]] || 241 || Increase of Health 10 || HP+550
 |-
-| ''No icon available'' || 251 || Increase of Health 11 || HP+600
+| [[File:increase_of_health_11.png|32px]] || 251 || Increase of Health 11 || HP+600
 |-
-| ''No icon available'' || 261 || Increase of Health 12 || HP+650
+| [[File:increase_of_health_12.png|32px]] || 261 || Increase of Health 12 || HP+650
 |-
-| ''No icon available'' || 271 || Increase of Health 13 || HP+700
+| [[File:increase_of_health_13.png|32px]] || 271 || Increase of Health 13 || HP+700
 |-
-| ''No icon available'' || 281 || Increase of Health 14 || HP+750
+| [[File:increase_of_health_14.png|32px]] || 281 || Increase of Health 14 || HP+750
 |-
-| ''No icon available'' || 291 || Increase of Health 15 || HP+800
+| [[File:increase_of_health_15.png|32px]] || 291 || Increase of Health 15 || HP+800
 |}
 
 == External Links ==
