@@ -325,7 +325,7 @@ def main():
     wiki_url = args.wiki or config['wiki_url']
     bot_username = args.bot_username or config['bot_username']
     bot_password = args.bot_password or config['bot_password']
-    directory = args.directory or config['image_dir']
+    directory = '/Users/marcosdefina/Projects/darkeden-legend-wiki/pages/donvitos/media/'
     batch_size = args.batch_size or config['batch_size']
     delay = args.delay or config['delay']
     

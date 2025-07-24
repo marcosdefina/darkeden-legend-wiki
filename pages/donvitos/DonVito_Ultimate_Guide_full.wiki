@@ -1,0 +1,448 @@
+<noinclude>{{DISPLAYTITLE:Don Vito's Ultimate Guide}}</noinclude>
+
+= Dark Eden — General Class & Race Guide =
+[[File:donvitos_image30.png|thumb|right|300px|Dark Eden Logo]]
+
+''Presented by: Abdul H. A (DonVito)''
+
+== Available Races & Classes ==
+
+=== Slayers ===
+[[File:donvitos_image3.jpeg|thumb|right|200px|Slayer Classes]]
+[[File:donvitos_image4.jpeg|thumb|right|200px|Slayer Equipment]]
+
+Slayers have preset classes depending on the weapon & skills you learn from NPCs available in the Guilds in Eslania, your starting point.
+
+* '''Defender''' – Swordsman – Wields a One-Handed Sword & Shield
+* '''Splitter''' – Blader – Wields a Two-Handed Blade  
+* '''Bishop''' – Healer – Wields a Cross
+* '''Granter''' – Enchanter – Wields a Mace
+* '''Heavy Shooter''' – Gunner – Wields any type of Gun
+
+[[File:donvitos_image5.jpeg|thumb|left|200px|Slayer Combat]]
+[[File:donvitos_image6.jpeg|thumb|left|200px|Slayer Skills]]
+[[File:donvitos_image7.jpeg|thumb|left|200px|Slayer Abilities]]
+
+=== Vampires ===
+[[File:donvitos_image8.jpeg|thumb|right|200px|Vampire Noble]]
+[[File:donvitos_image9.jpeg|thumb|right|200px|Vampire Forms]]
+
+Vampires start off the same. The way you distribute your status points determines your class. Vampires can learn all the skills available to them, but certain skills are made for Mage Type Vampires, while others are made for Melee Type Vampires.
+
+* '''Melee - Agile Fighter''' (The Aggressor) (Dexterity Based)
+* '''Melee - Heavy Fighter''' (The Front Line Defender) (Strength Based)  
+* '''Mage - Agile Caster''' (Sage Vampire) (Dexterity, Intelligence Based)
+* '''Mage – Heavy Caster''' (Warlock Vampire) (Intelligence Based)
+
+=== Ousters ===
+[[File:donvitos_image10.jpeg|thumb|right|200px|Ouster Magic]]
+[[File:donvitos_image11.jpeg|thumb|right|200px|Ouster Elements]]
+[[File:donvitos_image12.jpeg|thumb|right|200px|Ouster Combat]]
+
+Ousters start off the same. The way you distribute your status points & skill points determines your class.
+
+* '''Fire Ouster''' (The Warlock Ouster)
+* '''Water Ouster''' (The Healing Ouster)
+* '''Earth Ouster''' (The Crippling Ouster)
+* '''Combat Ouster''' (The Aggressor) (Dexterity Based)
+* '''Combat Ouster''' (The Front Line Defender) (Strength Based)
+
+== Attribute Information ==
+[[File:donvitos_image13.png|thumb|right|300px|Attribute Guide]]
+
+{| class="wikitable"
+! Attribute Name !! Description !! Bonus Range
+|-
+| '''Strength''' || Increases Protection, HP & Physical Damage || +1~+5
+|-
+| '''Dexterity''' || Increases Defense To-Hit & Attack Speed || +1~+5
+|-
+| '''Intelligence''' || Increases MP, MP Regeneration & Magical Damage || +1~+5
+|-
+| '''All Attributes''' || Adds Strength, Intelligence & Dexterity || +1~+3
+|-
+| '''To-Hit''' || Effects the accuracy of the character || +1~+5
+|-
+| '''Defense''' || The evasion rate of the character || +1~+5
+|-
+| '''Protection''' || The physical damage absorption rate || +1~+5
+
+|-
+| '''Curse Resistance''' || Reduces the effectiveness of Curse category skills || +5, +10, +15
+|-
+| '''Blood Resistance''' || Reduces the effectiveness of Blood category skills || +5, +10, +15
+|-
+| '''Acid Resistance''' || Reduces the effectiveness of Acid category skills || +5, +10, +15
+|-
+| '''Poison Resistance''' || Reduces the effectiveness of Poison category skills || +5, +10, +15
+|-
+| '''All Resistance''' || Includes Curse, Blood, Poison & Acid Resistance || +1, +3, +5, +7, +9
+|-
+| '''Attack Speed''' || Increases the attack rate of the character || +5, +10, +15, +20, +25
+|-
+| '''Damage''' || Increases the physical damage of the character || +1~+5
+|-
+| '''Critical''' || Increases the Critical Rate Chance of the character || +2, +4, +6, +8, +10
+|-
+| '''Vision''' || Increases the Character's Field of View || +1~+3
+|-
+| '''HP Steal''' || Allows the character to Steal HP with each attack by a high probability || +1~+3
+|-
+| '''MP Steal''' || Allows the character to Steal MP with each attack by a high probability || +1~+3
+|-
+| '''HP''' || Increases the character's Health Points || +3, +6, +9, +12, +15
+|-
+| '''MP''' || Increases the character's Mana Points || +5, +10, +15, +20, +25
+|-
+| '''Luck''' || Increases the character's chance to get better drops || +1, +3, +5
+|}
+
+=== Status Point Effects by Race ===
+{{Note|Red: 1 STR Point Effect | Green: 1 DEX Point Effect | Blue: 1 INT Point Effect}}
+
+{| class="wikitable"
+! Race !! HP !! MP !! Defense !! Protection !! To-Hit !! Damage
+|-
+| '''Slayer''' || 3.5 || 2 || .5 || 1 || .5 || .25
+|-
+| '''Vampire''' || 7, 2, 1.5 || - || .5 || 1 || 1 || .25
+|-
+| '''Ouster''' || 4.5, 1.5, .5 || 1 || .5 || 1 || .5 || .25
+|}== Race & Class Story, Game-Play, & Stereotypes ==
+
+=== Slayer Race ===
+Slayers were formed by E.V.E; “Elite Vampire Exterminators”. The title Slayers was formed by the Vampire Race when they realized that an elite number of Human beings were slaying younger Vampires. Slayers are known to almost never be alone. They seem much weaker when they fight alone, but when grouped with different classes Slayers fight much better and have the ability to work together to eliminate the most dangerous threat in the world of Helena. A group of Slayers is known as “The Unstoppable Force” by Vampires, which is why these predators lure & seduce Slayers to be alone as much as possible.=== Vampire Race ===
+
+Vampires, the unholy beings, multiply day & night and have an outstanding ability to resist the light. Gilles, Tepes & Bathory, Lords of the Vampires, started infecting Human beings and those who were infected & transformed were off on missions to infect others with demonic blood. Vampires are known to usually be alone most of the time. They have an arsenal of skills to survive the harshest conditions. Vampires do not have souls, and thus, they do not use MP / EP (Ousters MP) instead, they use their own blood. They regenerate their HP in a very rapid rate and can suck the blood from monsters if they need HP.
+=== Ouster Race ===
+
+Ousters were born when peace was found between a Male Slayer & a Female Vampire. This couple grew fond of each other, shared their views of the perfect worlds and went off to leave technology & demonic rituals to find a place of peace & nature. This couple made love and after a while in a cave, the Vampire gave birth to a very unusual relic that resembled a human. From the shock of the vampire giving birth to an inanimate object, the Slayer ran and was charged with treason and was executed. The female Vampire was left alone with the relic and decided to revert back to her unholy traditions. Right when she was about to cast an unholy spell to seal the cave, the relic radiated with luminous light and exploded into millions of pods with live female fetuses that later grew to be fully developed & powerful women. The vampire was killed by the explosion & so Ousters were born.  Ousters are always out numbered but the force of nature & the superior genetics allows them to become stronger than both slayers & vampires alone. They live up to a promise to bring peace and avenge their parents, even if it means to kill other Vampires & Slayers mercilessly with their higher understanding of Elemental Magic & Physical Force.
+
+== Slayer Classes ==
+
+=== The Defender ===
+
+The Defender is usually the front line warrior. With quick reflexes, the ability to control lightning & a shield to protect them from attacks they are known to be the most well rounded Slayer. Defenders are usually in the front lines of battles directing & protecting his group.
+==== Advantages ====
+* '''Fast Attacks''' - Allows the Defender to change tactics quickly
+* '''Good Defense''' - Gives the Defender a chance to avoid more physical attacks
+* '''Good Protection''' - Allows the Defender to endure more physical damage
+* '''High HP''' - For longer longevity in the battlefield
+* '''Good Critical Rate''' - Higher chance of doing 150%-250% (Proven & Tested) of the normal damage & knocking back your enemy at a much higher rate with your main skill, Infinity Thunder Bolt
+==== Disadvantages ====
+* '''Low To-Hit''' - Due to the fast pace tactics, the Defender has a harder time to focus on the accuracy of the attacks
+* '''Average Damage''' - Due to the fast pace tactics, the Defender has a harder time to output strong, heavy attacks like the Splitter
+==== Typical Builds of a Defender ====
+'''Dexterity Based Defender''' – 400-500 Dexterity, Rest Strength
+* '''Advantages:''' High To-Hit & Evasion
+* '''Disadvantages:''' Lower HP & Protection, & Slightly Lower Damage
+
+{{Quote|"I highly recommend this build for Defenders. After you get promoted to 151 you will have the ability to freely distribute status points. Add 300-400 Dexterity & the rest to Strength. This is one of my favorite slayers to play since they have great skills, speed & if built correctly, survivability & accuracy which is what a melee should all be about."|Don Vito}}
+
+'''Strength Based Defender''' – 200 Dexterity, Rest Strength
+* '''Advantages:''' High HP & Protection, & Slightly Higher Damage
+* '''Disadvantages:''' Low To-Hit & Evasion
+
+'''Preferred Set:'''
+# Curse Resistance 120+, All Resistance 50+, 8-12+ HP Steal, 3-5 MP Steal
+# Damage & To Hit for same race PvP
+
+=== The Splitter ===
+
+The '''Splitter''' is usually the most valuable damage dealer. They have the ability to make every attack count because the damage & effectiveness of the attack is so high. They stand in the frontlines ready to take on any challenge. They are found to be in the front lines alongside the Defender, making up for the damage.
+
+==== Advantages ====
+* '''Powerful Attacks''' - Allows the Splitter to cleave through the enemies HP
+* '''Good Defense''' - Gives the Splitter a chance to avoid more physical attacks
+* '''Good Protection''' - Allows the Splitter to endure more physical damage
+* '''High HP''' - For longer longevity in the battlefield
+* '''Decent To-Hit''' - Because the Splitter has a much slower attack speed rate, they are able to focus on their targets more
+
+==== Disadvantages ====
+* '''Very Slow''' - Due to the heavy damage, the swing of the giant blade slows the Splitter down
+* '''High MP Consumption''' - MP exhausts quickly due to the strong force of the skills the Splitter uses
+
+==== Typical Builds ====
+
+'''Dexterity Based Splitter''' – 400-500 Dexterity, Rest Strength
+* '''Advantages:''' Very High To-Hit & Evasion
+* '''Disadvantages:''' Lower HP, Protection, & Slightly Lower Damage
+
+'''Strength Based Splitter''' – 200 Dexterity, Rest Strength
+* '''Advantages:''' Very High HP & Protection, & Slightly Higher Damage
+* '''Disadvantages:''' Lower To-Hit & Evasion
+'''Preferred Set:'''
+# Curse Resistance 120+, All Resistance 50+, 8-12+ HP Steal, 9-10 MP Steal
+# Damage & To Hit for same race PvP
+
+{{Quote|"I never really liked Splitters; the game-play style is not my type. They hit really hard, but way too slow for me, and the MP usage is insane. For the most, Dexterity Builds are mainly for PvP, and Strength Based builds are for PvM, so make your choice. I would prefer the Dexterity Based build because I hate missing."|Don Vito}}
+
+=== The Bishop ===
+
+'''Bishops''' are saints blessed with magical powers discovered by the powerful sages who worked with E.V.E. They have the ability to give life to dead Slayers, resist & cure all sorts of demonic curses, and the ability to support the group by using mystical healing skills and powerful magical spells. Bishops are found in the middle lines of combat supporting the back & front lines with magical attacks. They may be found even in front of the Splitter & Defenders at advanced stages. Although this class may be powerful, they will almost always depend on others for assistance to attain levels quickly.
+
+==== Advantages ====
+
+* '''Powerful Magical Attacks''' - Which poison the blood of Vampires & Ousters with Silver, which blocks their HP from regenerating past the Silver infected HP
+* '''Healing Spells''' - Ability to Regenerate HP quickly & survive longer
+* '''Increased Resistance''' - Of Vampires demonic curses
+* '''Outstanding Magical Resistance''' - Denial Magic allows the Bishop to be the last survivor versus any type of mage
+* '''Highest Survivability''' - If built & played correctly
+* '''One of the most feared Slayer classes''' - Due to the arsenal of skills
+* '''Unstoppable with the help of a Granter''' - Video to prove it:
+==== Disadvantages ====
+* '''Very Slow & Bad Versus Monsters''' - The skills provided for the healer aren’t the strongest versus monsters
+* '''Dependence on Others''' - You will almost always be in parties if you want to level effectively
+
+==== Typical Builds of a Bishop
+'''Intelligence Based Bishop''' – All Intelligence
+
+Advantages:  Higher Magical Damage
+
+Disadvantages: Horrible Survivability, Low HP, Low Protection
+'''Strength Based Bishop''' – All Strength
+
+Advantages: High HP & High Protection
+
+Disadvantages: Lower Magical Damage
+
+{{Quote|"This is my favorite class. It requires a lot of work & patience but this class is bound to be the best in PvP versus other races... I highly urge and recommend you to play this class only as a Strength Based Bishop."|Don Vito}}
+
+{{Quote|"A very important note to all future Bishops; on high rate servers, you may just want to level with a cross and add all your attribute points to strength. On Low – Mid rate servers, you will have to party with other members, wear a sword and shield and let others attack to increase your base STR. When you attack, you will raise INT. You will have to find a way to balance this and keep your STR as high as you can but with enough INT for MP & for it not to level so quickly."|Don Vito}}
+
+'''Preferred Set:'''
+# Curse Resistance 100+ / All Resistance 70+, 8-12+ HP Steal, 3-4 MP Steal
+
+=== The Granter ===
+
+'''Granters''' are saints blessed with magical powers discovered by the powerful sages who worked with E.V.E. They are the ultimate support of all Slayers. They have the ability to see through Darkness, Increase Physical Damage, Defense, Protection, and HP & MP and they have outstanding Magical Damage.
+
+Granters are found in the middle lines of combat supporting the back & front lines with magical attacks. They are also found soloing most of the time in advanced stages.
+==== Advantages ====
+* '''Powerful Magical Attacks''' - Which poison the blood of Vampires & Ousters with Silver, which blocks their HP from regenerating past the Silver infected HP
+* '''Rotten Apple''' - Level 150 Skill, "One Rotten Apple Ruins the Whole Batch". This skill allows a Granter to kill off any monster close to another monster that has nearly no HP left with just one click. Making the Granter one of the best Solo characters
+* '''Fame''' - Fame gets you the good items. Rotten Apple kills high level monsters in 1 hit so you will be able to build up your fame higher than any other class in the server
+* '''Effective in PvM''' - Due to the high Magical Damage & Rotten Apple, you will be able to kill anything with very little effort. This depends in your game-play style
+* '''Highest Survivability''' - If built & played correctly
+* '''Unstoppable with the help of a Bishop'''
+* '''Best In-Game Buffs & De-Buffs'''
+==== Disadvantages ====
+* '''Inability to Survive Long Without Aura Shield''' - Aura shield allows the Granter to use his spirit instead of his body to defend him, which means the MP will get damaged instead. If your MP depletes your aura shield will be off and you are open to most attacks that will hurt & possibly kill the Granter very quickly
+* '''Requires Professional Players''' - This is truly a class made only for the pro's or people that are willing to fail A LOT before being able to become decent at playing as a Granter
+
+==== Typical Builds of a Granter
+'''Intelligence Based Granter''' – All Intelligence
+
+Advantages:  Higher Magical Damage, Higher MP, High MP Regeneration
+
+Disadvantages: Horrible Survivability without Aura Shield
+
+{{Quote|"This is one of the most confusing but effective classes I have played on Slayers. This is one of my least favorite classes due to the fragility of the character at low levels. With enough leveling & dedication, this will be one of the strongest classes in the entire game even against other slayers."|Don Vito}}
+
+'''Preferred Set:'''
+# Curse Resistance 120+, All Resistance 50+, 3-5+ HP Steal, 6-7+ MP Steal
+
+=== The Heavy Shooter ===
+
+E.V.E started off with this very class. They are the foundation of the Slayers army.
+
+'''Heavy Shooters''' are the marksmen of the Slayer Race, and have the ability to use powerful Submachine Guns, Fully Automatic Rifles, Sniper Rifles, or Shotguns.
+
+Heavy Shooters are found at the back of the combat lines shooting their enemies from a long distance with deadly force, speed & accuracy and with enough cover to protect them from their fragility.
+
+==== Advantages ====
+* '''Powerful Attacks''' - Which poison the blood of Vampires & Ousters with Silver, which blocks their HP from regenerating past the silver infected HP if the Heavy Shooter uses Silver Bullets
+* '''Very High Critical Rate''' - This means you have a higher chance of doing 150%-250% (Proven & Tested) of the normal damage & knocking back your enemy at a much higher rate with your skills
+* '''Turret Form''' - Heavy Shooters can build an immobile turret and fire from it, giving them a great increase to physical & magical resistance and also increasing their damage, critical rate, HP/MP Steal rate drastically. They will also not be effected by the vision loss that is caused by Darkness
+* '''Highest Defense''' - Amongst other slayers
+==== Disadvantages ====
+* '''Low HP''' - The low HP is the reason why gunners are not popular. They depend solely on their gear & defense to protect them from physical & magical damage.
+==== Typical Builds ====
+
+'''Dexterity Based Heavy Shooter''' – All Dexterity
+* '''Advantages:''' Higher Defense & To-Hit
+* '''Disadvantages:''' Lower HP, Protection and Damage
+
+'''Strength Based Heavy Shooter''' – 400-500 Dexterity, Rest Strength
+* '''Advantages:''' Higher HP, Protection, and Damage
+* '''Disadvantages:''' Lower Defense & To-Hit
+
+{{Quote|"I really dislike this class the most. They have the lowest survivability in the battle field and are more of a support class for damage .A very fun class to play as a beginner"|Don Vito}}
+
+'''Preferred Set:'''
+# Curse Resistance 110+, All Resistance 60+, 4-10+ HP Steal, 2-5 MP Steal
+
+== Vampire Classes ==
+
+=== Melee Vampire Noble ===
+
+Gilles De Raise, the Head Lord of the Vampire Council was the ultimate melee vampire. He trained ever since he had lust for blood and immortality. Through his years of experience, he recognized that the ultimate weapon for a vampire would be their own body. A Melee vampire focuses on using their rage, hatred & pity to eliminate all in their path. These Vampires use basic tactics to overcome their threats and to endure Slayer's destructiveness.
+
+==== Typical Melee Vampire Noble Builds ====
+
+'''Dexterity Based Melee Vampire Noble''' - 100~200 Strength, Rest Dexterity
+
+'''Advantages:''' High Defense, High To-Hit
+
+'''Disadvantages:''' Average Damage, Low HP, Very weak against Mage Enemies.
+
+{{Quote|"A Pure Dexterity Based Vampire was my least favorite type of Melee Vampire Noble class to play. The Defense & To-Hit was very high which was amazing for PvP but every hit that did land on it would hurt twofold. I think that the best type of character would have a good balance between Strength and Dexterity. With at least 200 Strength, I believe that this Melee Vampire Noble would be a well-rounded rounded character"|Don Vito}}
+
+'''Strength Based Melee Vampire Noble''' - 100~300 Dexterity, Rest Strength
+
+'''Advantages:''' High Damage, High HP, High Protection
+
+'''Disadvantages:''' Low To-Hit, Low Defense
+
+{{Quote|"These types of Vampire Noble's are a very great alternative to go, hunt items, and kill higher level monsters. They make a great distracting and front line defense, and are just brutal versus mages. The lack of To-Hit really put me off but with the Vampire Curse: Mephistopheles, a Vampire's To-Hit increases quite significantly. With the right amount of Dexterity & Strength, dedication to leveling & a good, set this would be one of the best characters in the game"|Don Vito}}
+
+{{Quote|"A professional Melee Vampire Noble uses all the skills he can, even magical ones. Although they may not be as effective as a Mage Vampire, they still can save the vampire from Holy or Silver Infected or even Elemental magic. The Darkness Skill is a good way to avoid these attacks by concealing yourself into dust. The Meteor Strike skill is very difficult to cast with low intelligence, but with enough determination, you can use it to kill off high defense characters.|Don Vito}}
+
+'''Preferred Set:'''
+# Curse Resistance 100 / All Resistance 60+, 20+ HP Steal
+
+=== Mage Vampire Noble ===
+
+Bathory, the evil witch Vampire had a very fragile body but her soul & thoughts were far more corrupt than anyone else's, and this is what gave her the advantage in the battle field. Taking advantage of her cursed mind, rituals and spirit she developed the strongest, most fearsome kinds of Magic. She used all kinds of treacherous elements such as Curses, Poisons, Acids, Blood & hell-bound elements to make any Slayer in her path flee from the filth & destruction of her fury. Vampires that lusted for blood & destruction followed her path.
+
+==== Typical Mage Vampire Noble Builds ====
+
+'''Dexterity Based Mage Vampire Noble'''
+
+240 Dexterity, Rest Intelligence to at least 500 & some Strength in later levels
+
+'''Advantages:''' High Defense, Very Versatile Character, Low Cool Down on Skills
+
+'''Disadvantages:''' Requires Professional Players, Average Magical Damage
+
+{{Quote|"This is my specialty out of all the Vampire Noble categories. They can do anything, and they can be immortal by playing cheap tactics. This is the perfect character for those who really like versatility in skills & tactics & teasing their enemies. This type of Vampire is as good as the player, literally. Some characters like Slayers have preset tactics, but these types of Vampires don't, which makes them very hard to predict. It stands no chance against a large party of slayers, but it is one of the most outstanding PvM and 1:1 PvP characters"|Don Vito}}
+
+http://www.youtube.com/watch?v=xHwRCol3tgA&feature=related
+
+'''Intelligence Based Vampire''' - All Intelligence
+
+'''Advantages:''' High Magical Damage, Highly Effective Magical Spells
+
+'''Disadvantages:''' Low Defense, Low Protection, Low HP, Low Survivability, High Cool Down on Skills
+
+{{Quote|"This type of Vampire is my least favorite. The reason being is that sooner or later, your damage will reach a maximum & people will develop sets that were made to be against your main skills; Resistance Sets. They perform the best when the server is new, but at higher levels & later staged in the server they will be very vulnerable. Your main target is 500 Intelligence, and you can get that with the Dexterity Based Mage Vampire Noble if you level enough. You will probably give up on this character before you reach a very high level because the survivability is horrible in PvP & PvM.|Don Vito}}
+
+'''Preferred Set:'''
+# Curse Resistance 100+ / All Resistance 60+, 20+ HP Steal
+
+<!-- SUBJECT TRANSITION: This marks approximately where the original line 800 would be - beginning of Ouster Classes -->
+== Ouster Classes ==
+
+=== The Fire Ouster ===
+
+The Fire Ouster is usually the front line warrior. With quick reflexes, the ability to control fire & a shield to protect them from attacks they are known to be the most well rounded Ouster. Fire Ousters are usually in the front lines of battles directing & protecting his group.
+==== Advantages ====
+* '''Fast Attacks''' - Allows the Fire Ouster to change tactics quickly
+* '''Good Defense''' - Gives the Fire Ouster a chance to avoid more physical attacks
+* '''Good Protection''' - Allows the Fire Ouster to endure more physical damage
+* '''High HP''' - For longer longevity in the battlefield
+* '''Good Critical Rate''' - Higher chance of doing 150%-250% (Proven & Tested) of the normal damage & knocking back your enemy at a much higher rate with your main skill, Infinity Thunder Bolt
+==== Disadvantages ====
+* '''Low To-Hit''' - Due to the fast pace tactics, the Fire Ouster has a harder time to focus on the accuracy of the attacks
+* '''Average Damage''' - Due to the fast pace tactics, the Fire Ouster has a harder time to output strong, heavy attacks like the Combat Ouster
+==== Typical Builds of a Fire Ouster ====
+'''Dexterity Based Fire Ouster''' – 400-500 Dexterity, Rest Strength
+* '''Advantages:''' High To-Hit & Evasion
+* '''Disadvantages:''' Lower HP & Protection, & Slightly Lower Damage
+
+{{Quote|"I highly recommend this build for Fire Ousters. After you get promoted to 151 you will have the ability to freely distribute status points. Add 300-400 Dexterity & the rest to Strength. This is one of my favorite Ousters to play since they have great skills, speed & if built correctly, survivability & accuracy which is what a melee should all be about."|Don Vito}}
+
+'''Strength Based Fire Ouster''' – 200 Dexterity, Rest Strength
+* '''Advantages:''' High HP & Protection, & Slightly Higher Damage
+* '''Disadvantages:''' Low To-Hit & Evasion
+
+'''Preferred Set:'''
+# Curse Resistance 120+, All Resistance 50+, 8-12+ HP Steal, 3-5 MP Steal
+# Damage & To Hit for same race PvP
+
+=== The Water Ouster ===
+
+The '''Water Ouster''' is usually the most valuable support dealer. They have the ability to heal, buff and debuff allies and enemies respectively, and remove harmful effects from allies. They stand in the backlines ready to assist any ally in need. They are found to be in the back lines alongside the Heavy Shooter, making up for the support.
+
+==== Advantages ====
+* '''Powerful Healing Spells''' - Allows the Water Ouster to heal allies effectively
+* '''Good Defense''' - Gives the Water Ouster a chance to avoid more physical attacks
+* '''Good Protection''' - Allows the Water Ouster to endure more physical damage
+* '''High HP''' - For longer longevity in the battlefield
+* '''Decent To-Hit''' - Because the Water Ouster has a decent attack speed rate, they are able to focus on their targets
+
+==== Disadvantages ====
+* '''Very Low Damage''' - Due to the focus on support, the Water Ouster has very low damage output
+* '''High MP Consumption''' - MP exhausts quickly due to the strong force of the skills the Water Ouster uses
+
+==== Typical Builds ====
+
+'''Dexterity Based Water Ouster''' – 400-500 Dexterity, Rest Strength
+* '''Advantages:''' Very High To-Hit & Evasion
+* '''Disadvantages:''' Lower HP, Protection, & Slightly Lower Damage
+
+'''Strength Based Water Ouster''' – 200 Dexterity, Rest Strength
+* '''Advantages:''' Very High HP & Protection, & Slightly Higher Damage
+* '''Disadvantages:''' Lower To-Hit & Evasion
+'''Preferred Set:'''
+# Curse Resistance 120+, All Resistance 50+, 8-12+ HP Steal, 9-10 MP Steal
+# Damage & To Hit for same race PvP
+
+{{Quote|"I never really liked Water Ousters; the game-play style is not my type. They hit really hard, but way too slow for me, and the MP usage is insane. For the most, Dexterity Builds are mainly for PvP, and Strength Based builds are for PvM, so make your choice. I would prefer the Dexterity Based build because I hate missing."|Don Vito}}
+
+=== The Earth Ouster ===
+
+'''Earth Ousters''' are the tanks of the Ouster Race. They have the ability to absorb damage and control the battlefield with their strong presence. They are usually found in the front lines, soaking up damage and controlling enemies.
+
+==== Advantages ====
+* '''High HP''' - For longer longevity in the battlefield
+* '''Good Defense''' - Gives the Earth Ouster a chance to avoid more physical attacks
+* '''Good Protection''' - Allows the Earth Ouster to endure more physical damage
+* '''High Damage''' - Due to their strong physical attacks, Earth Ousters can deal significant damage
+* '''Control over Enemies''' - Skills that can stun, knockback or otherwise control enemies
+
+==== Disadvantages ====
+* '''Low To-Hit''' - Due to the focus on power, the Earth Ouster has a harder time to focus on the accuracy of the attacks
+* '''Very Slow''' - Due to the heavy damage, the swing of the giant weapon slows the Earth Ouster down
+
+==== Typical Builds of an Earth Ouster ====
+'''Dexterity Based Earth Ouster''' – 400-500 Dexterity, Rest Strength
+* '''Advantages:''' High To-Hit & Evasion
+* '''Disadvantages:''' Lower HP & Protection, & Slightly Lower Damage
+
+'''Strength Based Earth Ouster''' – 200 Dexterity, Rest Strength
+* '''Advantages:''' High HP & Protection, & Slightly Higher Damage
+* '''Disadvantages:''' Low To-Hit & Evasion
+
+'''Preferred Set:'''
+# Curse Resistance 120+, All Resistance 50+, 8-12+ HP Steal, 3-5 MP Steal
+# Damage & To Hit for same race PvP
+
+=== The Combat Ouster ===
+
+The '''Combat Ouster''' is a versatile fighter, able to switch between dealing damage and taking damage. They are usually found in the front lines, dealing with enemies directly.
+
+==== Advantages ====
+* '''Fast Attacks''' - Allows the Combat Ouster to change tactics quickly
+* '''Good Defense''' - Gives the Combat Ouster a chance to avoid more physical attacks
+* '''Good Protection''' - Allows the Combat Ouster to endure more physical damage
+* '''High HP''' - For longer longevity in the battlefield
+* '''Decent Damage''' - Can deal decent damage while still being able to take hits
+
+==== Disadvantages ====
+* '''Average To-Hit''' - The Combat Ouster has a moderate attack speed, which means they are not as focused on accuracy as other classes
+* '''Average Damage''' - The damage output is decent, but not as high as other classes
+
+==== Typical Builds ====
+
+'''Dexterity Based Combat Ouster''' – 400-500 Dexterity, Rest Strength
+* '''Advantages:''' High To-Hit & Evasion
+* '''Disadvantages:''' Lower HP & Protection, & Slightly Lower Damage
+
+'''Strength Based Combat Ouster''' – 200 Dexterity, Rest Strength
+* '''Advantages:''' High HP & Protection, & Slightly Higher Damage
+* '''Disadvantages:''' Lower To-Hit & Evasion
+
+'''Preferred Set:'''
+# Curse Resistance 120+, All Resistance 50+, 8-12+ HP Steal, 9-10 MP Steal
+# Damage & To Hit for same race PvP

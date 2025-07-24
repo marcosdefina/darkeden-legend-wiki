@@ -1,0 +1,51 @@
+
+<noinclude>{{DISPLAYTITLE:Don Vito's Ultimate Guide}}</noinclude>
+
+= Dark Eden — General Class & Race Guide =
+''Presented by Abdul H. A (DonVito)''
+
+== Available Races & Classes ==
+
+=== Slayers ===
+Slayers have preset classes depending on the weapon & skills you learn from NPCs available in the Guilds in Eslania, your starting point.
+
+* '''Defender''' – Swordsman – Wields a One‑Handed Sword & Shield
+* '''Splitter''' – Blader – Wields a Two‑Handed Blade
+* '''Bishop''' – Healer – Wields a Cross
+* '''Granter''' – Enchanter – Wields a Mace
+* '''Heavy Shooter''' – Gunner – Wields any type of Gun
+
+=== Vampires ===
+Vampires start off the same. The way you distribute your status points determines your class.
+They can learn all skills, but certain skills suit Mage‑type Vampires, while others suit Melee‑type.
+
+* '''Melee – Agile Fighter''' (Dex‑based)
+* '''Melee – Heavy Fighter''' (STR‑based)
+* '''Mage – Agile Caster''' (DEX/INT‑based)
+* '''Mage – Heavy Caster''' (INT‑based)
+
+=== Ousters ===
+Ousters start off the same. Stat & skill distribution defines class.
+
+* '''Fire Ouster''' (Warlock)
+* '''Water Ouster''' (Healer)
+* '''Earth Ouster''' (Crippler)
+* '''Combat Ouster''' (Dex Aggressor)
+* '''Combat Ouster''' (STR Front‑Line)
+
+== Attribute Information ==
+{{Plainlist|
+* Strength – Increases Protection, HP & Physical Damage (+1 – +5 per line)
+* Dexterity – Increases Defense, To‑Hit & Attack Speed (+1 – +5)
+* Intelligence – Increases MP, MP Regeneration & Magical Damage (+1 – +5)
+* ...
+}}
+
+<!--  FULL CONTENT CONTINUES EXACTLY AS IN THE DOCX.
+      COPY‑PASTE the remaining sections verbatim, adding
+      headings (== Title ==) where appropriate.
+      Replace any in‑line images with: [[File:imagename.png|thumb]]
+-->
+
+<small>~Full accreditation goes to Don Vito~  
+If you have any further questions, please post in the Twilight DE Guide section…</small>
